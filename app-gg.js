@@ -113,6 +113,6 @@ document.writeln("<b>1024</b></a></li>");
 document.writeln("<li><a href=\'https://t66ya.site?agent=cl1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://cdn.jsdelivr.net/gh/web202166/m/cl.jpg\'>");
 document.writeln("<b>草榴</b></a></li>");
 
-document.writeln("<li><a href=\'https://sm120.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'hhttps://cdn.jsdelivr.net/gh/web202166/m/sm.jpg\'>");
+document.writeln("<li><a href=\'https://sm120.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://cdn.jsdelivr.net/gh/web202166/m/sm.jpg\'>");
 document.writeln("<b>S M</b></a></li>");
 document.writeln("</ul><div style=\'clear:both\'></div></div></div>");
