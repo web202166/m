@@ -1,15 +1,3 @@
-document.writeln("<li><a href=\'https://8sjp03.link/ssbdhx92\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/ad/2161.gif\'>");
-document.writeln("<b>高中開苞回憶</b></a></li>");
-
-document.writeln("<li><a href=\'https://8sjp03.link/pj8dhx92\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/ad/2162.gif\'>");
-document.writeln("<b>不穿內褲的奇遇</b></a></li>");
-
-document.writeln("<li><a href=\'https://8sjp03.link/sygdhx92\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/ad/2163.gif\'>");
-document.writeln("<b>異地尋春</b></a></li>");
-
-document.writeln("<li><a href=\'https://8sjp03.link/tspdhx92\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/ad/2164.gif\'>");
-document.writeln("<b>暗娼的真實生活</b></a></li>");
-
 document.writeln("<li><a href=\'https://90tplr.com/?dc=sqa0019436\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/template/default/xmdsp.jpg\'>");
 document.writeln("<b>麻豆传媒</b></a></li>");
 
