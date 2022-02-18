@@ -1,4 +1,4 @@
-document.writeln("<li><a href=\'https://90tplr.com/?dc=sqa0019436\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'/template/default/xmdsp.jpg\'>");
+document.writeln("<li><a href=\'https://90tplr.com/?dc=sqa0019436\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/xmdsp.jpg\'>");
 document.writeln("<b>麻豆传媒</b></a></li>");
 
 document.writeln("<li><a href=\'http://yyap16.xyz/?_c=hz07\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cryy.gif\'>");
