@@ -10,23 +10,11 @@ document.writeln("<b>逼哩逼哩</b></a></li>");
 document.writeln("<li><a href=\'https://wq4h39.com/?dc=zdla727\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021zh.png\'>");
 document.writeln("<b>汁乎</b></a></li>");
 
-document.writeln("<li><a href=\'https://yk78pq.com/?dc=ndla318\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021nhav.png\'>");
-document.writeln("<b>内涵av</b></a></li>");
-
-document.writeln("<li><a href=\'https://g0qh945.com/?ch=hz32\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021rn.png\'>");
+document.writeln("<li><a href=\'https://xcklvf.com/?ch=hz32\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021rn.png\'>");
 document.writeln("<b>日女</b></a></li>");
 
 document.writeln("<li><a href=\'https://d.n1y72.com?channel=tdy1220j10\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021dy.png\'>");
 document.writeln("<b>抖阴</b></a></li>");
-
-document.writeln("<li><a href=\'https://dycm118.com?channel=tcm1026j1\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021cm.jpg\'>");
-document.writeln("<b>草莓视频</b></a></li>");
-
-document.writeln("<li><a href=\'https://dyfq118.com?channel=tfq1026j1\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/fq.jpg\'>");
-document.writeln("<b>番茄社区</b></a></li>");
-
-document.writeln("<li><a href=\'https://dyqz118.com?channel=tqz1115j7\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/qzsp.jpg\'>");
-document.writeln("<b>茄子视频</b></a></li>");
 
 document.writeln("<li><a href=\'https://j.zfdazm.com?_c=tzjd297\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/jd.jpeg\'>");
 document.writeln("<b>精东</b></a></li>");
@@ -85,5 +73,14 @@ document.writeln("<b>1024</b></a></li>");
 document.writeln("<li><a href=\'https://t66ya.site?agent=cl1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cl.jpg\'>");
 document.writeln("<b>草榴</b></a></li>");
 
-document.writeln("<li><a href=\'https://sm120.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sm.jpg\'>");
+document.writeln("<li><a href=\'https://sm119.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sm.jpg\'>");
 document.writeln("<b>S M</b></a></li>");
+
+document.writeln("<li><a href=\'https://3rohm1.digital?ch=xhp019\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/xhp38.png\'>");
+document.writeln("<b>小黄片</b></a></li>");
+
+document.writeln("<li><a href=\'https://taubfw.digital?ch=hzjj19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/jj38.png\'>");
+document.writeln("<b>尖叫</b></a></li>");
+
+document.writeln("<li><a href=\'https://17i4rmt5.xyz?ch=sht19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sht38.png\'>");
+document.writeln("<b>色花堂</b></a></li>");
