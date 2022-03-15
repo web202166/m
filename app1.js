@@ -37,7 +37,7 @@ document.writeln("<b>91茄子</b></a></li>");
 document.writeln("<li><a href=\'https://dygjhg.com?channel=tphg1291\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/91hg.png\'>");
 document.writeln("<b>91黄瓜</b></a></li>");
 
-document.writeln("<li><a href=\'https://slfg9am3.com?_c=tslf326\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/slf.png\'>");
+document.writeln("<li><a href=\'https://slfbsq8n.com?_c=tslf326\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/slf.png\'>");
 document.writeln("<b>涩里番</b></a></li>");
 
 document.writeln("<li><a href=\'https://slf7l46b.com?_c=91mh103\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/91mh.png\'>");
@@ -82,9 +82,11 @@ document.writeln("<b>小黄片</b></a></li>");
 document.writeln("<li><a href=\'https://taubfw.digital?ch=hzjj19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/jj38.png\'>");
 document.writeln("<b>尖叫</b></a></li>");
 
+document.writeln("<li><a href=\'https://chuji.vip/?channel_code=ObNMmG\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/Lruqfp8R.png\'>");
+document.writeln("<b>雏姬</b></a></li>");
+
 document.writeln("<li><a href=\'https://17i4rmt5.xyz?ch=sht19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sht38.png\'>");
 document.writeln("<b>色花堂</b></a></li>");
-
 
 document.writeln("<li><a href=\'https://dw.czxymjzzs.com/qd/151.apk\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/lsjapp.jpg\'>");
 document.writeln("<b>老司机</b></a></li>");
