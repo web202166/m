@@ -87,6 +87,3 @@ document.writeln("<b>雏姬</b></a></li>");
 
 document.writeln("<li><a href=\'https://17i4rmt5.xyz?ch=sht19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sht38.png\'>");
 document.writeln("<b>色花堂</b></a></li>");
-
-document.writeln("<li><a href=\'https://dw.czxymjzzs.com/qd/151.apk\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/lsjapp.jpg\'>");
-document.writeln("<b>老司机</b></a></li>");
