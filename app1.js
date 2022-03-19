@@ -4,10 +4,10 @@ document.writeln("<b>麻豆传媒</b></a></li>");
 document.writeln("<li><a href=\'http://yyap16.xyz/?_c=hz07\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cryy.gif\'>");
 document.writeln("<b>成人YY</b></a></li>");
 
-document.writeln("<li><a href=\'https://nqfiml.com/?dc=bxza3543\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021blbl.png\'>");
+document.writeln("<li><a href=\'https://c489yz.com/?dc=bxza3543\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021blbl.png\'>");
 document.writeln("<b>逼哩逼哩</b></a></li>");
 
-document.writeln("<li><a href=\'https://wq4h39.com/?dc=zdla727\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021zh.png\'>");
+document.writeln("<li><a href=\'https://y8eiwc.com/?dc=zdla727\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021zh.png\'>");
 document.writeln("<b>汁乎</b></a></li>");
 
 document.writeln("<li><a href=\'https://xcklvf.com/?ch=hz32\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/2021rn.png\'>");
