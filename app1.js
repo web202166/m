@@ -70,10 +70,10 @@ document.writeln("<b>樱花社</b></a></li>");
 document.writeln("<li><a href=\'https://yyds2.me?agent=t1012174\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/1024.jpg\'>");
 document.writeln("<b>1024</b></a></li>");
 
-document.writeln("<li><a href=\'https://t66ya.site?agent=cl1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cl.jpg\'>");
+document.writeln("<li><a href=\'https://t66yb.site?agent=cl1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cl.jpg\'>");
 document.writeln("<b>草榴</b></a></li>");
 
-document.writeln("<li><a href=\'https://sm119.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sm.jpg\'>");
+document.writeln("<li><a href=\'https://sm101.me?agent=sm1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sm.jpg\'>");
 document.writeln("<b>S M</b></a></li>");
 
 document.writeln("<li><a href=\'https://3rohm1.digital?ch=xhp019\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/xhp38.png\'>");
@@ -87,3 +87,9 @@ document.writeln("<b>雏姬</b></a></li>");
 
 document.writeln("<li><a href=\'https://17i4rmt5.xyz?ch=sht19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sht38.png\'>");
 document.writeln("<b>色花堂</b></a></li>");
+
+document.writeln("<li><a href=\'https://sir.aff003.xyz/c-3653/a-aBfFB\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/luxianshen327.png\'>");
+document.writeln("<b>撸先生</b></a></li>");
+
+document.writeln("<li><a href=\'https://7u.aff003.club/chan-1872/aff-qPnk\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/qiyou327.jpeg\'>");
+document.writeln("<b>妻友</b></a></li>");
