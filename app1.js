@@ -82,8 +82,8 @@ document.writeln("<b>小黄片</b></a></li>");
 document.writeln("<li><a href=\'https://taubfw.digital?ch=hzjj19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/jj38.png\'>");
 document.writeln("<b>尖叫</b></a></li>");
 
-document.writeln("<li><a href=\'https://chuji.vip/?channel_code=ObNMmG\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/Lruqfp8R.png\'>");
-document.writeln("<b>雏姬</b></a></li>");
+document.writeln("<li><a href=\'https://sl16.cc?channel_id=14\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sao329.png\'>");
+document.writeln("<b>saol成人视频</b></a></li>");
 
 document.writeln("<li><a href=\'https://17i4rmt5.xyz?ch=sht19\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/sht38.png\'>");
 document.writeln("<b>色花堂</b></a></li>");
