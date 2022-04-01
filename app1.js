@@ -46,9 +46,6 @@ document.writeln("<b>91漫画</b></a></li>");
 document.writeln("<li><a href=\'https://18cmh03.com?_c=18cmi103\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/jmtt.png\'>");
 document.writeln("<b>禁漫天堂</b></a></li>");
 
-document.writeln("<li><a href=\'https://18qwe.com?channel=t9dy1115j8\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/91dy.png\'>");
-document.writeln("<b>18进</b></a></li>");
-
 document.writeln("<li><a href=\'https://61she.me?_c=t69s48\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/69s.png\'>");
 document.writeln("<b>69社</b></a></li>");
 
@@ -67,7 +64,7 @@ document.writeln("<b>69萝莉</b></a></li>");
 document.writeln("<li><a href=\'https://yhs32.com/?agent=yhj055\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/yhs.png\'>");
 document.writeln("<b>樱花社</b></a></li>");
 
-document.writeln("<li><a href=\'https://yyds2.me?agent=t1012174\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/1024.jpg\'>");
+document.writeln("<li><a href=\'https://yyds4.me/?agent=t1012174\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/1024.jpg\'>");
 document.writeln("<b>1024</b></a></li>");
 
 document.writeln("<li><a href=\'https://t66yb.site?agent=cl1274\' rel=\'me\' target=\'_blank\' class=\'item\'><img class=\'lazy-load\' src=\'https://www.midieads.xyz/dhads/cl.jpg\'>");
